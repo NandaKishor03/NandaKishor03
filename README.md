@@ -1,7 +1,8 @@
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<!-- <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a> -->
+<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU0MTIwMjgsIm5iZiI6MTc0NTQxMTcyOCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIzVDEyMzUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3NGNhOWFlY2FjY2VmZDQ2M2RkY2VkODhiYzlmNGNhMjFmNGZiMWM3MzVkMDNjZDhmNzM4YTE1ZGI1MGVlN2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fQgUwQv9WsDHo9wW2bImjaqj84eIwAg9njRTAGL_FMk' width='350'></a>
 
 <h3>Hi 👋, I'm Nanda Kishor Gopalapuram</h3>
 
@@ -55,10 +56,11 @@
 </p>
 
 ### 🎨 Software
-<p algin="left">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
 </p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
