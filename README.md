@@ -1,5 +1,7 @@
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
 <h1 align="center">Hi 👋, I'm Nanda Kishor Gopalapuram</h1>
 <h2 align="center">A Passionate Full Stack Developer from India</h2>
@@ -7,7 +9,7 @@
 <h3 align="center">💬 Ask me about: <i>Python, MERN</i></h3>
 <h3 align="center">⚡ Fun fact: <i>Bananas are berries, but strawberries aren’t! 🍌🍓</i></h3>
  
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Skills
 
@@ -50,13 +52,17 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandakishor03&show_icons=true&locale=en&layout=compact" alt="nandakishor03" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishor03&" alt="nandakishor03" height="165px" />
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -64,7 +70,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h1 align="center">📫 Connect with me</h1>
 
