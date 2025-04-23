@@ -3,11 +3,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
-<h1 align="center">Hi 👋, I'm Nanda Kishor Gopalapuram</h1>
-<h2 align="center">A Passionate Full Stack Developer from India</h2>
-<h3 align="center">🔭 I’m currently working on: <i>Resume Screening System</i></h3>
-<h3 align="center">💬 Ask me about: <i>Python, MERN</i></h3>
-<h3 align="center">⚡ Fun fact: <i>Bananas are berries, but strawberries aren’t! 🍌🍓</i></h3>
+<h3>Hi 👋, I'm Nanda Kishor Gopalapuram</h3>
+
+- 🔭 I'm currently working on Chat_and_Code
+
+- 🌱 I'm currently learning **LIFE**
+
+- 👨‍💻 A Passionate Full Stack Developer from India
+
+- 💬 Ask me about **Python, Reactjs, Nodejs, SQL, MongoDB**
+
+- 📫 How to reach me **<nandakishor6772@gmail.com>**
+
+<br/>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -72,15 +80,3 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<h1 align="center">📫 Connect with me</h1>
-
-<p align="center">
-<a href="mailto:nandakishorg@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nandakishorg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandakishorg/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nanda_72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nanda_72/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/nanda_72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nanda_72/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nandakishor6772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nandakishor6772" height="30" width="40" /></a>
-</p>
-
